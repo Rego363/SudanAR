@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3820a4efdf93f3548a36808712df1ed2
+timeCreated: 1525086890
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunSound: {instanceID: 0}
+  - sudanHit: {fileID: 82630842196763418, guid: bb771c7d043b9024dbe38f95c61a9050,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
